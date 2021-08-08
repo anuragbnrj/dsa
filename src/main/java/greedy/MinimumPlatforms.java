@@ -1,4 +1,6 @@
 /*
+Minimum Platforms - GFG
+
 Link: https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
 
 Problem:
